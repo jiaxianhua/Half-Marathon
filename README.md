@@ -11,15 +11,19 @@
 
 ### 2024/10/25 Running Shoes 跑鞋
 
-![LeftShoe](Screenshots/Day2/LeftShoe.jpg)
+![LeftShoe](Screenshots/PreRace2/LeftShoe.jpg)
 
-![Shoes](Screenshots/Day2/Shoes.jpg)
+![Shoes](Screenshots/PreRace2//Shoes.jpg)
 
 ## 第 1 周
 
 ### 2024/10/26 Day 1
 
+![Shoes](Screenshots/Day1/Day1.png)
+
 ### 2024/10/27 Day 2
+
+![Shoes](Screenshots/Day2/Day2.jpg)
 
 ### 2024/10/28 Day 3
 
