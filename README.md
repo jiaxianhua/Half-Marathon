@@ -1,6 +1,16 @@
 # 50-Day Half Marathon Sub-2 Hour Training Plan 50 天半程马拉松破 2 计划
 ---
 
+| 星期 | 运动 |
+|---|---|
+| 星期一 | 休息 |
+| 星期二 | 跑步 |
+| 星期三 | 休息 |
+| 星期四 | 跑步 |
+| 星期五 | 羽毛球 |
+| 星期六 | 长跑 |
+| 星期日 | 足球 |
+
 ## Pre-Race Preparation 跑前准备
 
 ### 2024/10/24 Registration 报名
@@ -31,9 +41,13 @@ Take a day off
 
 ### 2024/10/29 Day 4
 
+![Shoes](Screenshots/Day4/Day4.png)
+
 ### 2024/10/30 Day 5
 
 ### 2024/10/31 Day 6
+
+![Shoes](Screenshots/Day6/Day6.png)
 
 ### 2024/11/01 Day 7
 
@@ -41,7 +55,11 @@ Take a day off
 
 ### 2024/11/02 Day 8
 
+![Shoes](Screenshots/Day8/Day8.png)
+
 ### 2024/11/03 Day 9
+
+![Shoes](Screenshots/Day9/Day9.jpg)
 
 ### 2024/11/04 Day 10
 
